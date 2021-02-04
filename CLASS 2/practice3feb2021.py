@@ -17,6 +17,11 @@ celsius = -8
 f = 1.8 * celsius + 32
 print ("The temperature in f is", f)
 
+student= "Eric"
+
+print ("Hello", student, "would you like to learn some Python today?")
+print ("Hello /student/ would you like to learn some Python today?")
+
 
 
 

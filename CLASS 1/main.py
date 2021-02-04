@@ -1,6 +1,4 @@
-print ("Hello Python interpreter")
+my_name="Tina"
+course_count= 2
 
-print (2 + 3)
-
-print (1.01 + 1.02)
-print (5.0 + 5)
+print("my_name", "course_count")
